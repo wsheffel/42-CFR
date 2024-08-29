@@ -3758,6 +3758,8 @@
       "type": "section"
     },
     {
+  "content_versions": [
+    {
       "date": "2024-07-09",
       "amendment_date": "2024-07-09",
       "issue_date": "2024-07-09",
@@ -3844,91 +3846,76 @@
     "result_count": "295",
     "latest_amendment_date": "2024-07-09",
     "latest_issue_date": "2024-07-09"
-  }
-}
-Response headers
- accept-ranges: bytes 
- age: 0 
- content-encoding: gzip 
- content-length: 5103 
- content-type: application/json; charset=utf-8 
- date: Wed, 21 Aug 2024 00:37:21 GMT 
- referrer-policy: strict-origin-when-cross-origin 
- status: 200 OK 
- vary: Origin, Accept-Encoding 
- x-content-type-options: nosniff 
- x-download-options: noopen 
- x-frame-options: SAMEORIGIN 
- x-permitted-cross-domain-policies: none 
- x-request-id: Root1-66c536c0-662bd3891cebf2ef4e9571cf 
- x-runtime: 0.257530 
- x-xss-protection: 0 
-Responses
-Code	Description
-200	
-{
-  "content_versions": [
-    {
-      "date": "2017-01-19",
-      "amendment_date": "2017-01-19",
-      "issue_date": "2017-01-19",
-      "identifier": "3474.20",
-      "name": "§ 3474.20   xxx",
-      "part": "3474",
-      "substantive": true,
-      "removed": false,
-      "subpart": null,
-      "title": "2",
-      "type": "section"
-    },
-    {
-      "date": "2017-03-21",
-      "amendment_date": "2017-03-21",
-      "issue_date": "2017-03-21",
-      "identifier": "3474.20",
-      "name": "§ 3474.20   xxx",
-      "part": "3474",
-      "substantive": true,
-      "removed": false,
-      "subpart": null,
-      "title": "2",
-      "type": "section"
-    },
-    {
-      "date": "2017-05-17",
-      "amendment_date": "2017-05-17",
-      "issue_date": "2017-05-17",
-      "identifier": "200.110",
-      "name": "§ 200.110   Effective/applicability date.",
-      "part": "200",
-      "substantive": true,
-      "removed": false,
-      "subpart": "B",
-      "title": "2",
-      "type": "section"
-    },
-    {
-      "date": "2017-05-22",
-      "amendment_date": "2017-05-22",
-      "issue_date": "2017-05-22",
-      "identifier": "3474.20",
-      "name": "§ 3474.20   Open licensing requirement for competitive grant programs.",
-      "part": "3474",
-      "substantive": true,
-      "removed": false,
-      "subpart": null,
-      "title": "2",
-      "type": "section"
+  },
+  "responses": {
+    "code": "200",
+    "description": "OK",
+    "data": {
+      "content_versions": [
+        {
+          "date": "2017-01-19",
+          "amendment_date": "2017-01-19",
+          "issue_date": "2017-01-19",
+          "identifier": "3474.20",
+          "name": "§ 3474.20   xxx",
+          "part": "3474",
+          "substantive": true,
+          "removed": false,
+          "subpart": null,
+          "title": "2",
+          "type": "section"
+        },
+        {
+          "date": "2017-03-21",
+          "amendment_date": "2017-03-21",
+          "issue_date": "2017-03-21",
+          "identifier": "3474.20",
+          "name": "§ 3474.20   xxx",
+          "part": "3474",
+          "substantive": true,
+          "removed": false,
+          "subpart": null,
+          "title": "2",
+          "type": "section"
+        },
+        {
+          "date": "2017-05-17",
+          "amendment_date": "2017-05-17",
+          "issue_date": "2017-05-17",
+          "identifier": "200.110",
+          "name": "§ 200.110   Effective/applicability date.",
+          "part": "200",
+          "substantive": true,
+          "removed": false,
+          "subpart": "B",
+          "title": "2",
+          "type": "section"
+        },
+        {
+          "date": "2017-05-22",
+          "amendment_date": "2017-05-22",
+          "issue_date": "2017-05-22",
+          "identifier": "3474.20",
+          "name": "§ 3474.20   Open licensing requirement for competitive grant programs.",
+          "part": "3474",
+          "substantive": true,
+          "removed": false,
+          "subpart": null,
+          "title": "2",
+          "type": "section"
+        }
+      ],
+      "meta": {
+        "title": "2",
+        "result_count": "4",
+        "issue_date": {
+          "lte": "2018-01-01",
+          "gte": "2017-01-01"
+        },
+        "latest_amendment_date": "2017-05-22",
+        "latest_issue_date": "2017-05-22"
+      }
     }
-  ],
-  "meta": {
-    "title": "2",
-    "result_count": "4",
-    "issue_date": {
-      "lte": "2018-01-01",
-      "gte": "2017-01-01"
-    },
-    "latest_amendment_date": "2017-05-22",
-    "latest_issue_date": "2017-05-22"
   }
 }
+
