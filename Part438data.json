@@ -3617,11 +3617,13 @@
     {
   "content_versions": [
     {
+  "content_versions": [
+    {
       "date": "2024-07-09",
       "amendment_date": "2024-07-09",
       "issue_date": "2024-07-09",
       "identifier": "438.515",
-      "name": "§ 438.515 Medicaid managed care quality rating system methodology.",
+      "name": "§ 438.515   Medicaid managed care quality rating system methodology.",
       "part": "438",
       "substantive": true,
       "removed": false,
@@ -3634,7 +3636,7 @@
       "amendment_date": "2024-07-09",
       "issue_date": "2024-07-09",
       "identifier": "438.520",
-      "name": "§ 438.520 website display.",
+      "name": "§ 438.520   website display.",
       "part": "438",
       "substantive": true,
       "removed": false,
@@ -3647,7 +3649,7 @@
       "amendment_date": "2024-07-09",
       "issue_date": "2024-07-09",
       "identifier": "438.525",
-      "name": "§ 438.525 [Reserved]",
+      "name": "§ 438.525   [Reserved]",
       "part": "438",
       "substantive": true,
       "removed": false,
@@ -3660,7 +3662,7 @@
       "amendment_date": "2024-07-09",
       "issue_date": "2024-07-09",
       "identifier": "438.530",
-      "name": "§ 438.530 Annual technical resource manual.",
+      "name": "§ 438.530   Annual technical resource manual.",
       "part": "438",
       "substantive": true,
       "removed": false,
@@ -3673,7 +3675,7 @@
       "amendment_date": "2024-07-09",
       "issue_date": "2024-07-09",
       "identifier": "438.535",
-      "name": "§ 438.535 Annual reporting.",
+      "name": "§ 438.535   Annual reporting.",
       "part": "438",
       "substantive": true,
       "removed": false,
@@ -3686,7 +3688,7 @@
       "amendment_date": "2024-07-09",
       "issue_date": "2024-07-09",
       "identifier": "438.602",
-      "name": "§ 438.602 State responsibilities.",
+      "name": "§ 438.602   State responsibilities.",
       "part": "438",
       "substantive": true,
       "removed": false,
@@ -3703,77 +3705,5 @@
     "result_count": "295",
     "latest_amendment_date": "2024-07-09",
     "latest_issue_date": "2024-07-09"
-  },
-  "responses": [
-    {
-      "code": "200",
-      "description": "OK",
-      "data": {
-        "content_versions": [
-          {
-            "date": "2017-01-19",
-            "amendment_date": "2017-01-19",
-            "issue_date": "2017-01-19",
-            "identifier": "3474.20",
-            "name": "§ 3474.20 xxx",
-            "part": "3474",
-            "substantive": true,
-            "removed": false,
-            "subpart": null,
-            "title": "2",
-            "type": "section"
-          },
-          {
-            "date": "2017-03-21",
-            "amendment_date": "2017-03-21",
-            "issue_date": "2017-03-21",
-            "identifier": "3474.20",
-            "name": "§ 3474.20 xxx",
-            "part": "3474",
-            "substantive": true,
-            "removed": false,
-            "subpart": null,
-            "title": "2",
-            "type": "section"
-          },
-          {
-            "date": "2017-05-17",
-            "amendment_date": "2017-05-17",
-            "issue_date": "2017-05-17",
-            "identifier": "200.110",
-            "name": "§ 200.110 Effective/applicability date.",
-            "part": "200",
-            "substantive": true,
-            "removed": false,
-            "subpart": "B",
-            "title": "2",
-            "type": "section"
-          },
-          {
-            "date": "2017-05-22",
-            "amendment_date": "2017-05-22",
-            "issue_date": "2017-05-22",
-            "identifier": "3474.20",
-            "name": "§ 3474.20 Open licensing requirement for competitive grant programs.",
-            "part": "3474",
-            "substantive": true,
-            "removed": false,
-            "subpart": null,
-            "title": "2",
-            "type": "section"
-          }
-        ],
-        "meta": {
-          "title": "2",
-          "result_count": "4",
-          "issue_date": {
-            "lte": "2018-01-01",
-            "gte": "2017-01-01"
-          },
-          "latest_amendment_date": "2017-05-22",
-          "latest_issue_date": "2017-05-22"
-        }
-      }
-    }
-  ]
-},
+  }
+}
