@@ -1,0 +1,1348 @@
+{
+  "identifier": "42",
+  "label": "Title 42—Public Health",
+  "label_level": "Title 42",
+  "label_description": "Public Health",
+  "reserved": false,
+  "type": "title",
+  "children": [      
+      {
+      "identifier": "IV",
+      "label": " Chapter IV—Centers for Medicare &amp; Medicaid Services, Department of Health and Human Services",
+      "label_level": " Chapter IV",
+      "label_description": "Centers for Medicare &amp; Medicaid Services, Department of Health and Human Services",
+      "reserved": false,
+      "type": "chapter",
+      "children": [
+        {
+          "identifier": "C",
+          "label": "Subchapter C—Medical Assistance Programs",
+          "label_level": "Subchapter C",
+          "label_description": "Medical Assistance Programs",
+          "reserved": false,
+          "type": "subchapter",
+          "children": [
+            { 
+             "identifier": "438",
+              "label": "Part 438 - Managed Care",
+              "label_level": "Part 438",
+              "label_description": "Managed Care",
+              "reserved": false,
+              "type": "part",
+              "volumes": [
+                "4"
+              ],
+              "children": [
+                {
+                  "identifier": "A",
+                  "label": "Subpart A - General Provisions",
+                  "label_level": "Subpart A",
+                  "label_description": "General Provisions",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.1",
+                      "label": "§ 438.1 Basis and scope.",
+                      "label_level": "§ 438.1",
+                      "label_description": "Basis and scope.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.2",
+                      "label": "§ 438.2 Definitions.",
+                      "label_level": "§ 438.2",
+                      "label_description": "Definitions.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.3",
+                      "label": "§ 438.3 Standard contract requirements.",
+                      "label_level": "§ 438.3",
+                      "label_description": "Standard contract requirements.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-03-02T21:20:09-0500"
+                    },
+                    {
+                      "identifier": "438.4",
+                      "label": "§ 438.4 Actuarial soundness.",
+                      "label_level": "§ 438.4",
+                      "label_description": "Actuarial soundness.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-07-02T22:10:10-0400"
+                    },
+                    {
+                      "identifier": "438.5",
+                      "label": "§ 438.5 Rate development standards.",
+                      "label_level": "§ 438.5",
+                      "label_description": "Rate development standards.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.6",
+                      "label": "§ 438.6 Special contract provisions related to payment.",
+                      "label_level": "§ 438.6",
+                      "label_description": "Special contract provisions related to payment.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-07-02T22:10:10-0400"
+                    },
+                    {
+                      "identifier": "438.7",
+                      "label": "§ 438.7 Rate certification submission.",
+                      "label_level": "§ 438.7",
+                      "label_description": "Rate certification submission.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.8",
+                      "label": "§ 438.8 Medical loss ratio (MLR) standards.",
+                      "label_level": "§ 438.8",
+                      "label_description": "Medical loss ratio (MLR) standards.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.9",
+                      "label": "§ 438.9 Provisions that apply to non-emergency medical transportation PAHPs.",
+                      "label_level": "§ 438.9",
+                      "label_description": "Provisions that apply to non-emergency medical transportation PAHPs.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.10",
+                      "label": "§ 438.10 Information requirements.",
+                      "label_level": "§ 438.10",
+                      "label_description": "Information requirements.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.12",
+                      "label": "§ 438.12 Provider discrimination prohibited.",
+                      "label_level": "§ 438.12",
+                      "label_description": "Provider discrimination prohibited.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.14",
+                      "label": "§ 438.14 Requirements that apply to MCO, PIHP, PAHP, PCCM, and PCCM entity contracts involving Indians, Indian health care providers (IHCPs), and Indian managed care entities (IMCEs).",
+                      "label_level": "§ 438.14",
+                      "label_description": "Requirements that apply to MCO, PIHP, PAHP, PCCM, and PCCM entity contracts involving Indians, Indian health care providers (IHCPs), and Indian managed care entities (IMCEs).",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.1 – 438.14"
+                },
+                {
+                  "identifier": "B",
+                  "label": "Subpart B - State Responsibilities",
+                  "label_level": "Subpart B",
+                  "label_description": "State Responsibilities",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.50",
+                      "label": "§ 438.50 State Plan requirements.",
+                      "label_level": "§ 438.50",
+                      "label_description": "State Plan requirements.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.52",
+                      "label": "§ 438.52 Choice of MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities.",
+                      "label_level": "§ 438.52",
+                      "label_description": "Choice of MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.54",
+                      "label": "§ 438.54 Managed care enrollment.",
+                      "label_level": "§ 438.54",
+                      "label_description": "Managed care enrollment.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.56",
+                      "label": "§ 438.56 Disenrollment: Requirements and limitations.",
+                      "label_level": "§ 438.56",
+                      "label_description": "Disenrollment: Requirements and limitations.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.58",
+                      "label": "§ 438.58 Conflict of interest safeguards.",
+                      "label_level": "§ 438.58",
+                      "label_description": "Conflict of interest safeguards.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.60",
+                      "label": "§ 438.60 Prohibition of additional payments for services covered under MCO, PIHP or PAHP contracts.",
+                      "label_level": "§ 438.60",
+                      "label_description": "Prohibition of additional payments for services covered under MCO, PIHP or PAHP contracts.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.62",
+                      "label": "§ 438.62 Continued services to enrollees.",
+                      "label_level": "§ 438.62",
+                      "label_description": "Continued services to enrollees.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-07-01T20:00:09-0400"
+                    },
+                    {
+                      "identifier": "438.66",
+                      "label": "§ 438.66 State monitoring requirements.",
+                      "label_level": "§ 438.66",
+                      "label_description": "State monitoring requirements.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.68",
+                      "label": "§ 438.68 Network adequacy standards.",
+                      "label_level": "§ 438.68",
+                      "label_description": "Network adequacy standards.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-03-12T21:00:08-0500"
+                    },
+                    {
+                      "identifier": "438.70",
+                      "label": "§ 438.70 Stakeholder engagement when LTSS is delivered through a managed care program.",
+                      "label_level": "§ 438.70",
+                      "label_description": "Stakeholder engagement when LTSS is delivered through a managed care program.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.71",
+                      "label": "§ 438.71 Beneficiary support system.",
+                      "label_level": "§ 438.71",
+                      "label_description": "Beneficiary support system.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.74",
+                      "label": "§ 438.74 State oversight of the minimum MLR requirement.",
+                      "label_level": "§ 438.74",
+                      "label_description": "State oversight of the minimum MLR requirement.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.50 – 438.74"
+                },
+                {
+                  "identifier": "C",
+                  "label": "Subpart C - Enrollee Rights and Protections",
+                  "label_level": "Subpart C",
+                  "label_description": "Enrollee Rights and Protections",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.100",
+                      "label": "§ 438.100 Enrollee rights.",
+                      "label_level": "§ 438.100",
+                      "label_description": "Enrollee rights.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.102",
+                      "label": "§ 438.102 Provider-enrollee communications.",
+                      "label_level": "§ 438.102",
+                      "label_description": "Provider-enrollee communications.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.104",
+                      "label": "§ 438.104 Marketing activities.",
+                      "label_level": "§ 438.104",
+                      "label_description": "Marketing activities.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.106",
+                      "label": "§ 438.106 Liability for payment.",
+                      "label_level": "§ 438.106",
+                      "label_description": "Liability for payment.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.108",
+                      "label": "§ 438.108 Cost sharing.",
+                      "label_level": "§ 438.108",
+                      "label_description": "Cost sharing.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.110",
+                      "label": "§ 438.110 Member advisory committee.",
+                      "label_level": "§ 438.110",
+                      "label_description": "Member advisory committee.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.114",
+                      "label": "§ 438.114 Emergency and poststabilization services.",
+                      "label_level": "§ 438.114",
+                      "label_description": "Emergency and poststabilization services.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.116",
+                      "label": "§ 438.116 Solvency standards.",
+                      "label_level": "§ 438.116",
+                      "label_description": "Solvency standards.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.100 – 438.116"
+                },
+                {
+                  "identifier": "D",
+                  "label": "Subpart D - MCO, PIHP and PAHP Standards",
+                  "label_level": "Subpart D",
+                  "label_description": "MCO, PIHP and PAHP Standards",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.206",
+                      "label": "§ 438.206 Availability of services.",
+                      "label_level": "§ 438.206",
+                      "label_description": "Availability of services.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-08-19T20:00:13-0400"
+                    },
+                    {
+                      "identifier": "438.207",
+                      "label": "§ 438.207 Assurances of adequate capacity and services.",
+                      "label_level": "§ 438.207",
+                      "label_description": "Assurances of adequate capacity and services.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.208",
+                      "label": "§ 438.208 Coordination and continuity of care.",
+                      "label_level": "§ 438.208",
+                      "label_description": "Coordination and continuity of care.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.210",
+                      "label": "§ 438.210 Coverage and authorization of services.",
+                      "label_level": "§ 438.210",
+                      "label_description": "Coverage and authorization of services.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-01-06T01:20:06-0500"
+                    },
+                    {
+                      "identifier": "438.214",
+                      "label": "§ 438.214 Provider selection.",
+                      "label_level": "§ 438.214",
+                      "label_description": "Provider selection.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2018-05-01T01:00:00-0400"
+                    },
+                    {
+                      "identifier": "438.224",
+                      "label": "§ 438.224 Confidentiality.",
+                      "label_level": "§ 438.224",
+                      "label_description": "Confidentiality.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.228",
+                      "label": "§ 438.228 Grievance and appeal systems.",
+                      "label_level": "§ 438.228",
+                      "label_description": "Grievance and appeal systems.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.230",
+                      "label": "§ 438.230 Subcontractual relationships and delegation.",
+                      "label_level": "§ 438.230",
+                      "label_description": "Subcontractual relationships and delegation.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.236",
+                      "label": "§ 438.236 Practice guidelines.",
+                      "label_level": "§ 438.236",
+                      "label_description": "Practice guidelines.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.242",
+                      "label": "§ 438.242 Health information systems.",
+                      "label_level": "§ 438.242",
+                      "label_description": "Health information systems.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    }
+                  ],
+                  "descendant_range": "438.206 – 438.242"
+                },
+                {
+                  "identifier": "E",
+                  "label": "Subpart E - Quality Measurement and Improvement; External Quality Review",
+                  "label_level": "Subpart E",
+                  "label_description": "Quality Measurement and Improvement; External Quality Review",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.310",
+                      "label": "§ 438.310 Basis, scope, and applicability.",
+                      "label_level": "§ 438.310",
+                      "label_description": "Basis, scope, and applicability.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.320",
+                      "label": "§ 438.320 Definitions.",
+                      "label_level": "§ 438.320",
+                      "label_description": "Definitions.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.330",
+                      "label": "§ 438.330 Quality assessment and performance improvement program.",
+                      "label_level": "§ 438.330",
+                      "label_description": "Quality assessment and performance improvement program.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.332",
+                      "label": "§ 438.332 State review of the accreditation status of MCOs, PIHPs, and PAHPs.",
+                      "label_level": "§ 438.332",
+                      "label_description": "State review of the accreditation status of MCOs, PIHPs, and PAHPs.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.334",
+                      "label": "§ 438.334 Medicaid managed care quality rating system.",
+                      "label_level": "§ 438.334",
+                      "label_description": "Medicaid managed care quality rating system.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.340",
+                      "label": "§ 438.340 Managed care State quality strategy.",
+                      "label_level": "§ 438.340",
+                      "label_description": "Managed care State quality strategy.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-04-30T21:50:07-0400"
+                    },
+                    {
+                      "identifier": "438.350",
+                      "label": "§ 438.350 External quality review.",
+                      "label_level": "§ 438.350",
+                      "label_description": "External quality review.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-24T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.352",
+                      "label": "§ 438.352 External quality review protocols.",
+                      "label_level": "§ 438.352",
+                      "label_description": "External quality review protocols.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.354",
+                      "label": "§ 438.354 Qualifications of external quality review organizations.",
+                      "label_level": "§ 438.354",
+                      "label_description": "Qualifications of external quality review organizations.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.356",
+                      "label": "§ 438.356 State contract options for external quality review.",
+                      "label_level": "§ 438.356",
+                      "label_description": "State contract options for external quality review.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.358",
+                      "label": "§ 438.358 Activities related to external quality review.",
+                      "label_level": "§ 438.358",
+                      "label_description": "Activities related to external quality review.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.360",
+                      "label": "§ 438.360 Nonduplication of mandatory activities with Medicare or accreditation review.",
+                      "label_level": "§ 438.360",
+                      "label_description": "Nonduplication of mandatory activities with Medicare or accreditation review.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.362",
+                      "label": "§ 438.362 Exemption from external quality review.",
+                      "label_level": "§ 438.362",
+                      "label_description": "Exemption from external quality review.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.364",
+                      "label": "§ 438.364 External quality review results.",
+                      "label_level": "§ 438.364",
+                      "label_description": "External quality review results.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.370",
+                      "label": "§ 438.370 Federal financial participation (FFP).",
+                      "label_level": "§ 438.370",
+                      "label_description": "Federal financial participation (FFP).",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.310 – 438.370"
+                },
+                {
+                  "identifier": "F",
+                  "label": "Subpart F - Grievance and Appeal System",
+                  "label_level": "Subpart F",
+                  "label_description": "Grievance and Appeal System",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.400",
+                      "label": "§ 438.400 Statutory basis, definitions, and applicability.",
+                      "label_level": "§ 438.400",
+                      "label_description": "Statutory basis, definitions, and applicability.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-01-06T01:20:06-0500"
+                    },
+                    {
+                      "identifier": "438.402",
+                      "label": "§ 438.402 General requirements.",
+                      "label_level": "§ 438.402",
+                      "label_description": "General requirements.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2021-01-06T01:20:06-0500"
+                    },
+                    {
+                      "identifier": "438.404",
+                      "label": "§ 438.404 Timely and adequate notice of adverse benefit determination.",
+                      "label_level": "§ 438.404",
+                      "label_description": "Timely and adequate notice of adverse benefit determination.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.406",
+                      "label": "§ 438.406 Handling of grievances and appeals.",
+                      "label_level": "§ 438.406",
+                      "label_description": "Handling of grievances and appeals.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.408",
+                      "label": "§ 438.408 Resolution and notification: Grievances and appeals.",
+                      "label_level": "§ 438.408",
+                      "label_description": "Resolution and notification: Grievances and appeals.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2020-12-16T21:20:08-0500"
+                    },
+                    {
+                      "identifier": "438.410",
+                      "label": "§ 438.410 Expedited resolution of appeals.",
+                      "label_level": "§ 438.410",
+                      "label_description": "Expedited resolution of appeals.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.414",
+                      "label": "§ 438.414 Information about the grievance and appeal system to providers and subcontractors.",
+                      "label_level": "§ 438.414",
+                      "label_description": "Information about the grievance and appeal system to providers and subcontractors.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.416",
+                      "label": "§ 438.416 Recordkeeping requirements.",
+                      "label_level": "§ 438.416",
+                      "label_description": "Recordkeeping requirements.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.420",
+                      "label": "§ 438.420 Continuation of benefits while the MCO, PIHP, or PAHP appeal and the State fair hearing are pending.",
+                      "label_level": "§ 438.420",
+                      "label_description": "Continuation of benefits while the MCO, PIHP, or PAHP appeal and the State fair hearing are pending.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.424",
+                      "label": "§ 438.424 Effectuation of reversed appeal resolutions.",
+                      "label_level": "§ 438.424",
+                      "label_description": "Effectuation of reversed appeal resolutions.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.400 – 438.424"
+                },
+                {
+                  "identifier": "G",
+                  "label": "Subpart G [Reserved]",
+                  "label_level": "Subpart G",
+                  "label_description": "Subpart G [Reserved]",
+                  "reserved": true,
+                  "type": "subpart",
+                  "volumes": [],
+                  "children": []
+                },
+                {
+                  "identifier": "H",
+                  "label": "Subpart H - Additional Program Integrity Safeguards",
+                  "label_level": "Subpart H",
+                  "label_description": "Additional Program Integrity Safeguards",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.600",
+                      "label": "§ 438.600 Statutory basis, basic rule, and applicability.",
+                      "label_level": "§ 438.600",
+                      "label_description": "Statutory basis, basic rule, and applicability.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.602",
+                      "label": "§ 438.602 State responsibilities.",
+                      "label_level": "§ 438.602",
+                      "label_description": "State responsibilities.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.604",
+                      "label": "§ 438.604 Data, information, and documentation that must be submitted.",
+                      "label_level": "§ 438.604",
+                      "label_description": "Data, information, and documentation that must be submitted.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-24T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.606",
+                      "label": "§ 438.606 Source, content, and timing of certification.",
+                      "label_level": "§ 438.606",
+                      "label_description": "Source, content, and timing of certification.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.608",
+                      "label": "§ 438.608 Program integrity requirements under the contract.",
+                      "label_level": "§ 438.608",
+                      "label_description": "Program integrity requirements under the contract.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.610",
+                      "label": "§ 438.610 Prohibited affiliations.",
+                      "label_level": "§ 438.610",
+                      "label_description": "Prohibited affiliations.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.600 – 438.610"
+                },
+                {
+                  "identifier": "I",
+                  "label": "Subpart I - Sanctions",
+                  "label_level": "Subpart I",
+                  "label_description": "Sanctions",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.700",
+                      "label": "§ 438.700 Basis for imposition of sanctions.",
+                      "label_level": "§ 438.700",
+                      "label_description": "Basis for imposition of sanctions.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.702",
+                      "label": "§ 438.702 Types of intermediate sanctions.",
+                      "label_level": "§ 438.702",
+                      "label_description": "Types of intermediate sanctions.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.704",
+                      "label": "§ 438.704 Amounts of civil money penalties.",
+                      "label_level": "§ 438.704",
+                      "label_description": "Amounts of civil money penalties.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.706",
+                      "label": "§ 438.706 Special rules for temporary management.",
+                      "label_level": "§ 438.706",
+                      "label_description": "Special rules for temporary management.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.708",
+                      "label": "§ 438.708 Termination of an MCO, PCCM or PCCM entity contract.",
+                      "label_level": "§ 438.708",
+                      "label_description": "Termination of an MCO, PCCM or PCCM entity contract.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.710",
+                      "label": "§ 438.710 Notice of sanction and pre-termination hearing.",
+                      "label_level": "§ 438.710",
+                      "label_description": "Notice of sanction and pre-termination hearing.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.722",
+                      "label": "§ 438.722 Disenrollment during termination hearing process.",
+                      "label_level": "§ 438.722",
+                      "label_description": "Disenrollment during termination hearing process.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.724",
+                      "label": "§ 438.724 Notice to CMS.",
+                      "label_level": "§ 438.724",
+                      "label_description": "Notice to CMS.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.726",
+                      "label": "§ 438.726 State plan requirement.",
+                      "label_level": "§ 438.726",
+                      "label_description": "State plan requirement.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.730",
+                      "label": "§ 438.730 Sanction by CMS: Special rules for MCOs.",
+                      "label_level": "§ 438.730",
+                      "label_description": "Sanction by CMS: Special rules for MCOs.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.700 – 438.730"
+                },
+                {
+                  "identifier": "J",
+                  "label": "Subpart J - Conditions for Federal Financial Participation (FFP)",
+                  "label_level": "Subpart J",
+                  "label_description": "Conditions for Federal Financial Participation (FFP)",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.802",
+                      "label": "§ 438.802 Basic requirements.",
+                      "label_level": "§ 438.802",
+                      "label_description": "Basic requirements.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.806",
+                      "label": "§ 438.806 Prior approval.",
+                      "label_level": "§ 438.806",
+                      "label_description": "Prior approval.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.808",
+                      "label": "§ 438.808 Exclusion of entities.",
+                      "label_level": "§ 438.808",
+                      "label_description": "Exclusion of entities.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.810",
+                      "label": "§ 438.810 Expenditures for enrollment broker services.",
+                      "label_level": "§ 438.810",
+                      "label_description": "Expenditures for enrollment broker services.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.812",
+                      "label": "§ 438.812 Costs under risk and nonrisk contracts.",
+                      "label_level": "§ 438.812",
+                      "label_description": "Costs under risk and nonrisk contracts.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.816",
+                      "label": "§ 438.816 Expenditures for the beneficiary support system for enrollees using LTSS.",
+                      "label_level": "§ 438.816",
+                      "label_description": "Expenditures for the beneficiary support system for enrollees using LTSS.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.818",
+                      "label": "§ 438.818 Enrollee encounter data.",
+                      "label_level": "§ 438.818",
+                      "label_description": "Enrollee encounter data.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.802 – 438.818"
+                },
+                {
+                  "identifier": "K",
+                  "label": "Subpart K - Parity in Mental Health and Substance Use Disorder Benefits",
+                  "label_level": "Subpart K",
+                  "label_description": "Parity in Mental Health and Substance Use Disorder Benefits",
+                  "reserved": false,
+                  "type": "subpart",
+                  "volumes": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "identifier": "438.900",
+                      "label": "§ 438.900 Meaning of terms.",
+                      "label_level": "§ 438.900",
+                      "label_description": "Meaning of terms.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.905",
+                      "label": "§ 438.905 Parity requirements for aggregate lifetime and annual dollar limits.",
+                      "label_level": "§ 438.905",
+                      "label_description": "Parity requirements for aggregate lifetime and annual dollar limits.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.910",
+                      "label": "§ 438.910 Parity requirements for financial requirements and treatment limitations.",
+                      "label_level": "§ 438.910",
+                      "label_description": "Parity requirements for financial requirements and treatment limitations.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.915",
+                      "label": "§ 438.915 Availability of information.",
+                      "label_level": "§ 438.915",
+                      "label_description": "Availability of information.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.920",
+                      "label": "§ 438.920 Applicability.",
+                      "label_level": "§ 438.920",
+                      "label_description": "Applicability.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    },
+                    {
+                      "identifier": "438.930",
+                      "label": "§ 438.930 Compliance dates.",
+                      "label_level": "§ 438.930",
+                      "label_description": "Compliance dates.",
+                      "reserved": false,
+                      "type": "section",
+                      "volumes": [
+                        "4"
+                      ],
+                      "received_on": "2017-01-03T00:00:00-0500"
+                    }
+                  ],
+                  "descendant_range": "438.900 – 438.930"
+                }
+              ],
+              "descendant_range": "438.1 – 438.930"
+            }
+          ],
+          "descendant_range": "430 – 456"
+        }
+      ],
+      "descendant_range": "400 – 699"
+    }
+  ]
+}
